@@ -15,7 +15,7 @@
 
 #### You can run the TFJS project on your localhost and use a tool like OBS to use it as the video feed for platforms like Zoom and Google Meet replacing your webcam and overlaying it with annotate-me.
 
-Check this [link]() for the demo.
+Check this [link](https://youtu.be/wAGjN4fJQ24) for the demo.
 
 ### OR
 
