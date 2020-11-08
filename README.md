@@ -5,7 +5,7 @@
 
 # ANNOTATE ME 
 
-#### Interactive video streams for your online meetings.
+#### Interactive video streams for your online meetings made using P5.js, ML5.js and React.
 
 #### annotate-me lets you add interactive emojis to your web conferencing platform. It uses TensorFlow JS to detect the users gestures and overlays a clip art on the screen.
 
