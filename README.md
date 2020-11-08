@@ -11,7 +11,7 @@
 
 #### This will help other's in the meeting to easily see the user's reaction.
 
-#### Currently we have to use Open Brodcaster Software for displaying the video but our original goal was to not use any 3rd party software but after implementing the web sdk ZOOM meeting app provides we got to know that they don't provide full customization to their sdk yet.
+#### Currently we have to use <a href="https://obsproject.com/download">Open Brodcaster Software</a> for displaying the video but our original goal was to not use any 3rd party software but after implementing the web sdk ZOOM meeting app provides we got to know that they don't provide full customization to their sdk yet.
 
 #### You can run the TFJS project on your localhost and use a tool like OBS to use it as the video feed for platforms like Zoom and Google Meet replacing your webcam and overlaying it with annotate-me.
 
