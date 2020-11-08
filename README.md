@@ -1,5 +1,9 @@
+<img src="./logo.png">
+
+##
+## Project submission for HackCBS 3.0 on 8th November 2020
+
 # ANNOTATE ME 
-# annotate-me
 
 #### Interactive video streams for your online meetings.
 
@@ -7,7 +11,7 @@
 
 #### This will help other's in the meeting to easily see the user's reaction.
 
-#### Currently we have to use Open Brodcaster Software for displaying the video but our original goal was to not use any 3rd party software and we were not able to finish it on time.
+#### Currently we have to use Open Brodcaster Software for displaying the video but our original goal was to not use any 3rd party software but after implementing the web sdk ZOOM meeting app provides we got to know that they don't provide full customization to their sdk yet.
 
 #### You can run the TFJS project on your localhost and use a tool like OBS to use it as the video feed for platforms like Zoom and Google Meet replacing your webcam and overlaying it with annotate-me.
 
